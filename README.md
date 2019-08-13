@@ -5,5 +5,5 @@ Sources:
 - Modern React with Redux [2019 Update], https://www.udemy.com/react-redux
 - React and Redux docs
 
-Table here
-https://res.cloudinary.com/app-core/image/upload/v1565707662/dev/safe-state-updates.png
+Safe state updates
+![Safe state updates](https://res.cloudinary.com/app-core/image/upload/v1565707662/dev/safe-state-updates.png)
