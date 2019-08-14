@@ -1,7 +1,9 @@
 import _ from 'lodash';
 import jsonPlaceholder from '../apis/jsonPlaceholder';
 
-// Action creator
+// In case action creator returns a function, the functions gets called by redux-trunk
+// with 'dispatch' and 'getState' which give us total control over 
+// changing and getting information out of the redux store
 export const fetchPostsAndUsers = () => async (dispatch, getState) => {
   await dispatch(fetchPosts());
 
