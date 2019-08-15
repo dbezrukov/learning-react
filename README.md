@@ -6,4 +6,7 @@ Sources:
 - React and Redux docs
 
 Safe state updates
-![Safe state updates](https://res.cloudinary.com/app-core/image/upload/v1565707662/dev/safe-state-updates.png)
+![Safe state updates](https://res.cloudinary.com/app-core/image/upload/v1565868080/dev/safe-state-updates.png)
+
+Using hooks
+![Using hooks](https://res.cloudinary.com/app-core/image/upload/v1565868079/dev/using-hooks.png)
