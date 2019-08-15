@@ -12,3 +12,10 @@ Sources:
 
 #### Using hooks
 ![Using hooks](https://res.cloudinary.com/app-core/image/upload/h_400/v1565868079/dev/using-hooks.png)
+
+#### UseEffect hook rules 
+useEffect gets called when you provide different values 
+
+![useEffect rules](https://res.cloudinary.com/app-core/image/upload/h_400/v1565892203/dev/use-effect.png)
+
+
