@@ -11,11 +11,11 @@ Sources:
 ![Safe state updates](https://res.cloudinary.com/app-core/image/upload/v1565868080/dev/safe-state-updates.png)
 
 #### Using hooks
-![Using hooks](https://res.cloudinary.com/app-core/image/upload/h_400/v1565868079/dev/using-hooks.png)
+![Using hooks](https://res.cloudinary.com/app-core/image/upload/h_350/v1565868079/dev/using-hooks.png)
 
 #### UseEffect hook rules 
 useEffect gets called when you provide different values 
 
-![useEffect rules](https://res.cloudinary.com/app-core/image/upload/h_400/v1565892203/dev/use-effect.png)
+![useEffect rules](https://res.cloudinary.com/app-core/image/upload/h_450/v1565892203/dev/use-effect.png)
 
 
