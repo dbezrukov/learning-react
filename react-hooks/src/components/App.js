@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
+import ResourceList from './ResourceListFunctional';
 
 const App = () => {
   // destructuring array, assigning names to the first and second elements
-  const [resource, setResource] = useState('posts');
+  const [resource, setResource] = useState('posts'); // 'posts' is an initial value
 
   return (
     <div>
@@ -10,7 +11,7 @@ const App = () => {
         <button onClick={() => setResource('posts')}>Posts</button>
         <button onClick={() => setResource('todos')}>Todos</button>
       </div>
-      {resource}
+      <ResourceList resource={resource} />
     </div>
   );
 };
